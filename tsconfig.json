@@ -24,7 +24,7 @@
       "@cloudflare/workers-types/2023-07-01"
     ],
     "typeRoots": [
-      "./types",  // <-- Add this line to include the custom types folder
+      "./opensearch-ai",  // <-- Add the correct path to the `dompurify.d.ts` file
       "./node_modules/@types"
     ]
   },
